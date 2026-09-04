@@ -1,0 +1,13 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+deploy
+keepalive
+__pycache__
+*.pyc
+bot.log
+*.session
+*.zip
+.env
+README.md
